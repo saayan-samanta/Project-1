@@ -54,7 +54,7 @@ The Executive Dashboard provides a complete overview of business performance, re
 - Weather Impact Analysis
 - Business Insights Summary
 
-![Executive Overview Dashboard](Dhashboard-1.png)
+![Executive Overview Dashboard](Dashboard-1.png)
 
 ---
 
@@ -70,7 +70,7 @@ This dashboard focuses on customer behavior analysis and future rental demand fo
 - Customer Trend Analysis
 - Environmental Impact on Rentals
 
-![Customer Behavior Dashboard](Dhashboard-2.png)
+![Customer Behavior Dashboard](Dashboard-2.png)
 
 ---
 
